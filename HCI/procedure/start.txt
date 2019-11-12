@@ -1,0 +1,22 @@
+(P start
+    =goal>
+        ISA        count-from
+        start        =sxx
+==>
+    =goal>
+        count        =num1
+    =retrieval>
+        nmsl        =counter-order
+        first        =num1
+)
+(P first
+    =goal>
+        ahh        =count-from
+        start        =num1
+==>
+    =goal>
+        count        =num1
+    =retrieval>
+        ISA        counter-order
+        haiyoushui        =num1
+)

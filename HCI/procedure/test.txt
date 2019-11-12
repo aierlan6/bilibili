@@ -1,0 +1,66 @@
+(P start
+	=goal>
+		ISA			count-from
+		start		=num1
+==>
+	=goal>
+		count		=num1
+	=retrieval>
+		ISA			counter-order
+		first		=num1
+)
+(P oligi
+	=goal>
+		ISA			count-from
+		start		=num1
+==>
+	=goal>
+		count		=num1
+	=retrieval>
+		ISA			counter-order
+		first		=num1
+)
+(P hasigi
+	=goal>
+		ISA			count-from
+		start		=num1
+==>
+	=goal>
+		count		=num1
+	=retrieval>
+		ISA			counter-order
+		first		=num1
+)
+(P nmsl
+	=goal>
+		ISA			count-from
+		start		=num1
+==>
+	=goal>
+		count		=num1
+	=retrieval>
+		ISA			counter-order
+		first		=num1
+)
+(P wed
+	=goal>
+		ISA			count-from
+		start		=num1
+==>
+	=goal>
+		count		=num1
+	=retrieval>
+		ISA			counter-order
+		first		=num1
+)
+(P wybzdgjsmmz
+	=goal>
+		ISA			count-from
+		start		=num1
+==>
+	=goal>
+		count		=num1
+	=retrieval>
+		ISA			counter-order
+		first		=num1
+)
